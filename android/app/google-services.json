@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613854957299",
+    "project_id": "chinese-expert-4bb63",
+    "storage_bucket": "chinese-expert-4bb63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613854957299:android:225ff304714a473a593186",
+        "android_client_info": {
+          "package_name": "com.example.chinese_expert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWn4Rjgu6uTsau9rPB2WUx2khhnUEuIhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
